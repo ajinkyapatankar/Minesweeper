@@ -1,0 +1,2 @@
+This is in accordance to the Rutgers Academic Integrity Policy. We have referenced to this github repository for the completion of the project.
+https://github.com/progwiz/minesweeper
